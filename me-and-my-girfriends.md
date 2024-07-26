@@ -61,5 +61,11 @@ ssh登录一下：
 ![image](https://github.com/user-attachments/assets/d0a4caf7-bb4e-480b-93e8-a7570c777c3c)
 使用ls -al发现alice藏了小秘密，是什么呢
 ![image](https://github.com/user-attachments/assets/94ff8c8a-c319-42d0-b749-ee5195d3cd0c)
-
+![image](https://github.com/user-attachments/assets/5c242031-71ef-4206-8f08-699f37e63dc4)
+依据提示，尝试linux提权：
+根据php代码可以执行系统命令的函数来提权，成功提升到root权限：
+![image](https://github.com/user-attachments/assets/5cb0fad9-3846-4377-bee1-d04c478f884c)
+使用find命令查找包含flag的txt文件：
+![image](https://github.com/user-attachments/assets/83d71fb9-0322-46f1-8263-45aaddd9448e)
+成功得到所有的flag！
 
