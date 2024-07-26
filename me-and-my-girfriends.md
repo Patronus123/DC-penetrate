@@ -58,5 +58,8 @@ ssh登录一下：
 简单查看一下有啥文件可以访问：
 ![image](https://github.com/user-attachments/assets/f627fca4-61b5-47e0-b5f7-2f63a2671e3c)
 可以运行php命令
+![image](https://github.com/user-attachments/assets/d0a4caf7-bb4e-480b-93e8-a7570c777c3c)
 使用ls -al发现alice藏了小秘密，是什么呢
+![image](https://github.com/user-attachments/assets/94ff8c8a-c319-42d0-b749-ee5195d3cd0c)
+
 
